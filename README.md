@@ -126,27 +126,10 @@ Website dapat diakses di `http://localhost:8000`
     └── seeders/
 ```
 
-## Kontribusi
-
-Kami menyambut kontribusi dari komunitas untuk pengembangan website desa ini. Silakan:
-
-1. Fork repository ini
-2. Buat branch fitur baru (`git checkout -b feature/fitur-baru`)
-3. Commit perubahan (`git commit -am 'Menambah fitur baru'`)
-4. Push ke branch (`git push origin feature/fitur-baru`)
-5. Buat Pull Request
-
-## Panduan Kontribusi
-
-- Pastikan kode mengikuti PSR-4 coding standards
-- Tulis test untuk fitur baru
-- Update dokumentasi jika diperlukan
-- Gunakan pesan commit yang deskriptif
-
 ## Tim Pengembang
 
-**Developer**: [Nama Anda]  
-**Email**: [email@anda.com]  
+**Developer**: [Rahmat Maliki]  
+**Email**: [Satset443@gmail.com]  
 **Desa**: Dukuh Agung
 
 ## Support
