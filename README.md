@@ -1,8 +1,8 @@
-# Website Desa Dukuh Agung
+# Digitalisasi Desa
 
-<p align="center">
-    <img src="https://via.placeholder.com/400x100/4CAF50/white?text=Desa+Dukuh+Agung" alt="Logo Desa Dukuh Agung">
-</p>
+<h2 align="center">
+    Website Desa Dukuhagung
+</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
@@ -129,8 +129,7 @@ Website dapat diakses di `http://localhost:8000`
 ## Tim Pengembang
 
 **Developer**: [Rahmat Maliki]  
-**Email**: [Satset443@gmail.com]  
-**Desa**: Dukuh Agung
+**Email**: [satset443@gmail.com] 
 
 ## Support
 
